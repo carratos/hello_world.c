@@ -2,6 +2,10 @@
 #include <stdio.h>
 int main()
 {
+  int x = 0;
+  int y = 0;
   printf("\nHello World!\n");
-  Printf("\nHello Universe\n");
+  printf("\nHello Universe\n");
+
+  printf("\n x is %d, y is %d", x, y);
 }
