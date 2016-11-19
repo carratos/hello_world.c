@@ -7,5 +7,5 @@ int main()
   printf("\nHello World!\n");
   printf("\nHello Universe\n");
 
-  printf("\n x is %d, y is %d", x, y);
+  printf("\n x is %d, y is %d\n", x, y);
 }
